@@ -4,7 +4,7 @@
 Wonyoung's wife, like reading DC comics, literally i am red hood btw ngl
 
 <p align="center">
-<img src="https://tenor.com/5Lxq.gif" width="500"/>
+<img src="https://media1.tenor.com/m/MZlsfDvRoNsAAAAd/red-hood-leaving.gif" width="600"/>
 </p>
 
 ## Contact Me
