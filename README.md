@@ -44,23 +44,11 @@ Wonyoung's wife, like reading DC comics, literally i am red hood btw ngl
 
 ## My Contribution Graph
 
-import { generatePacManGame } from 'pacman-contribution-graph';
-
-generatePacManGame({
-	username: 'your_username',
-	platform: 'github', // or 'gitlab'
-	theme: 'github-dark', // or 'gitlab-dark'
-	speed: 2,
-	sound: true,
-	output: 'canvas' // or 'svg'
-});
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledriverWaltz/piledriverWaltz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piledriverWaltz/piledriverWaltz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/piledriverWaltz/piledriverWaltz/output/pacman-contribution-graph.svg">
 </picture>
-
 ---
 
 # 📊 GitHub Stats
