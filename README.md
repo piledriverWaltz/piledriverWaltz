@@ -1,7 +1,7 @@
 # Hello 👋, I'm Maverick551
 ### Software Engineering
 
-Wonyoung's wife, like reading DC comics, literally i am red hood btw ngl
+like reading DC comics, literally i am red hood btw ngl and i have beautiful gf i love her sm
 
 <p align="center">
 <img src="https://media1.tenor.com/m/MZlsfDvRoNsAAAAd/red-hood-leaving.gif" width="600"/>
